@@ -1,11 +1,38 @@
 ---
-title: "temp_website"
+title: "Welcome to My Personal Website"
+format: html
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![My Favourite Dog](dog2.jpg "Dog")
 
-```{r}
-1 + 1
-```
+Hello! I'm Bryan, a passionate learner and explorer with a strong interest in technology, creativity, and problem-solving. I'm currently studying at **Singapore Institute of Technology (SIT)**, where I'm pursuing my academic and professional growth in a hands-on, application-driven environment.
+
+![](sit.png){width=80%}
+
+From coding and software development to data analysis and AI tools, I enjoy diving deep into technical challenges and building meaningful projects. This website serves as a space to showcase my journey, projects, and interests outside of the classroom.
+
+I created this website not only to document my learning experiences but also to share the things I enjoy—from personal hobbies to tech experiments and reflections on new tools like Generative AI.
+
+Whether you're here to check out my work, get inspired by my favorite movie, or see what I'm currently learning—thank you for stopping by!
+
+---
+
+## Highlights of What You’ll Find Here
+
+- 💻 **Projects**: Explore my personal projects that reflect my learning and creativity.
+- 🎮 **Hobbies**: See what I enjoy doing when I’m not coding or studying.
+- 🎬 **TV Show Thoughts**: My take on a tv series that left an impression.
+- 🤖 **GenAI Reflection**: How I’ve been using Generative AI tools like ChatGPT to boost my learning and productivity.
+
+---
+
+## Let's Connect!
+
+If you're interested in my work, want to collaborate, or just want to say hi—feel free to connect with me!
+
+<a href="https://github.com/Toiletcleaner00" target="_blank">
+  <img src="github.png" alt="GitHub" style="height:40px;">
+</a>
+

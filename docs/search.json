@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome to My Personal Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "My Favourite Dog\n\n\nHello! I’m Bryan, a passionate learner and explorer with a strong interest in technology, creativity, and problem-solving. I’m currently studying at Singapore Institute of Technology (SIT), where I’m pursuing my academic and professional growth in a hands-on, application-driven environment.\n\nFrom coding and software development to data analysis and AI tools, I enjoy diving deep into technical challenges and building meaningful projects. This website serves as a space to showcase my journey, projects, and interests outside of the classroom.\nI created this website not only to document my learning experiences but also to share the things I enjoy—from personal hobbies to tech experiments and reflections on new tools like Generative AI.\nWhether you’re here to check out my work, get inspired by my favorite movie, or see what I’m currently learning—thank you for stopping by!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,201 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Personal Website",
+    "section": "",
+    "text": "My Favourite Dog\n\n\nHello! I’m Bryan, a passionate learner and explorer with a strong interest in technology, creativity, and problem-solving. I’m currently studying at Singapore Institute of Technology (SIT), where I’m pursuing my academic and professional growth in a hands-on, application-driven environment.\n\nFrom coding and software development to data analysis and AI tools, I enjoy diving deep into technical challenges and building meaningful projects. This website serves as a space to showcase my journey, projects, and interests outside of the classroom.\nI created this website not only to document my learning experiences but also to share the things I enjoy—from personal hobbies to tech experiments and reflections on new tools like Generative AI.\nWhether you’re here to check out my work, get inspired by my favorite movie, or see what I’m currently learning—thank you for stopping by!"
+  },
+  {
+    "objectID": "index.html#featured-project",
+    "href": "index.html#featured-project",
+    "title": "Welcome to My Personal Website",
+    "section": "",
+    "text": "Check out my Personal Project"
+  },
+  {
+    "objectID": "index.html#latest-posts",
+    "href": "index.html#latest-posts",
+    "title": "Welcome to My Personal Website",
+    "section": "",
+    "text": "My Hobbies\nReflection on GenAI\nTravel Experiences"
+  },
+  {
+    "objectID": "index.html#latest-project",
+    "href": "index.html#latest-project",
+    "title": "Welcome to My Personal Website",
+    "section": "Latest Project",
+    "text": "Latest Project\nI recently completed my Final Year Project on [Project Topic]. You can learn more about it in the FYP Project section."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Welcome to My Personal Website",
+    "section": "Let’s Connect!",
+    "text": "Let’s Connect!\nIf you’re interested in my work, want to collaborate, or just want to say hi—feel free to connect with me!"
+  },
+  {
+    "objectID": "show.html",
+    "href": "show.html",
+    "title": "My Favorite Show: Breaking Bad",
+    "section": "",
+    "text": "Breaking Bad Poster\n\n\nBreaking Bad is widely regarded as one of the greatest TV shows of all time. Created by Vince Gilligan, this drama follows Walter White, a chemistry teacher turned meth manufacturer.\n\n\n\n“The transformation of Walter White from mild-mannered teacher to dangerous criminal is portrayed with incredible nuance and depth.”\n\n\nCharacter Development: The evolution of characters feels realistic and compelling\nMoral Complexity: Explores gray areas of morality without taking sides\nWriting Excellence: Tight plots with no wasted scenes\nPerformance: Outstanding acting, particularly Bryan Cranston and Aaron Paul\n\n\n\n\nWhat resonates with me most is the exploration of how ordinary people can be pushed to extremes. The show made me reflect on: - The potential for good people to do bad things - The consequences of pride and greed - How circumstances can gradually change someone’s moral compass\n\n\n\n\n“Ozymandias” - The pinnacle of television writing\n“Gliding Over All” - The perfect conclusion to Walter’s journey\n“Face Off” - Incredible tension and payoff\n\nIf you haven’t watched it yet, I highly recommend giving it a try!"
+  },
+  {
+    "objectID": "show.html#why-breaking-bad-stands-out",
+    "href": "show.html#why-breaking-bad-stands-out",
+    "title": "My Favorite Show: Breaking Bad",
+    "section": "",
+    "text": "Breaking Bad Poster\n\n\nBreaking Bad is widely regarded as one of the greatest TV shows of all time. Created by Vince Gilligan, this drama follows Walter White, a chemistry teacher turned meth manufacturer.\n\n\n\n“The transformation of Walter White from mild-mannered teacher to dangerous criminal is portrayed with incredible nuance and depth.”\n\n\nCharacter Development: The evolution of characters feels realistic and compelling\nMoral Complexity: Explores gray areas of morality without taking sides\nWriting Excellence: Tight plots with no wasted scenes\nPerformance: Outstanding acting, particularly Bryan Cranston and Aaron Paul\n\n\n\n\nWhat resonates with me most is the exploration of how ordinary people can be pushed to extremes. The show made me reflect on: - The potential for good people to do bad things - The consequences of pride and greed - How circumstances can gradually change someone’s moral compass\n\n\n\n\n“Ozymandias” - The pinnacle of television writing\n“Gliding Over All” - The perfect conclusion to Walter’s journey\n“Face Off” - Incredible tension and payoff\n\nIf you haven’t watched it yet, I highly recommend giving it a try!"
+  },
+  {
+    "objectID": "personal_project.html",
+    "href": "personal_project.html",
+    "title": "Personal Project",
+    "section": "",
+    "text": "This project explores how volatility forecasting can support data-driven stock trading decisions. Using financial data and statistical modeling, the system analyzes stock behavior and identifies low-volatility periods that may serve as favorable buy signals.\n\n\n\nVolatility Forecast\n\n\n\n\n\n\nPython (Main development language)\nyFinance (Stock data retrieval)\nSelenium (Web scraping)\nGARCH (Volatility modeling)\nMatplotlib & mplfinance (Data visualization)\nGoogle Colab (Development platform)\n\n\n\n\n\nForecasts stock market volatility using GARCH models\nIntegrates technical indicators such as moving averages and Bollinger Bands\nInteractive interface to select and visualize individual stock data\nProvides analytical insight into market behavior during low-volatility periods\n\n\n\n\n\nImplementing and tuning GARCH models for financial time series\nCleaning and aligning noisy or missing stock data\nBalancing predictive accuracy with interpretability\nVisualizing multi-dimensional financial indicators effectively\n\n\n\n\n\nIdentified potential low-volatility buy zones in various stocks\nBuilt an interactive, data-driven tool to assist in stock analysis\nImproved understanding of quantitative finance and market behavior"
+  },
+  {
+    "objectID": "personal_project.html#project-overview",
+    "href": "personal_project.html#project-overview",
+    "title": "Personal Project",
+    "section": "",
+    "text": "This project explores how volatility forecasting can support data-driven stock trading decisions. Using financial data and statistical modeling, the system analyzes stock behavior and identifies low-volatility periods that may serve as favorable buy signals.\n\n\n\nVolatility Forecast"
+  },
+  {
+    "objectID": "personal_project.html#technologies-used",
+    "href": "personal_project.html#technologies-used",
+    "title": "Personal Project",
+    "section": "",
+    "text": "Python (Main development language)\nyFinance (Stock data retrieval)\nSelenium (Web scraping)\nGARCH (Volatility modeling)\nMatplotlib & mplfinance (Data visualization)\nGoogle Colab (Development platform)"
+  },
+  {
+    "objectID": "personal_project.html#key-features",
+    "href": "personal_project.html#key-features",
+    "title": "Personal Project",
+    "section": "",
+    "text": "Forecasts stock market volatility using GARCH models\nIntegrates technical indicators such as moving averages and Bollinger Bands\nInteractive interface to select and visualize individual stock data\nProvides analytical insight into market behavior during low-volatility periods"
+  },
+  {
+    "objectID": "personal_project.html#challenges-faced",
+    "href": "personal_project.html#challenges-faced",
+    "title": "Personal Project",
+    "section": "",
+    "text": "Implementing and tuning GARCH models for financial time series\nCleaning and aligning noisy or missing stock data\nBalancing predictive accuracy with interpretability\nVisualizing multi-dimensional financial indicators effectively"
+  },
+  {
+    "objectID": "personal_project.html#outcomes",
+    "href": "personal_project.html#outcomes",
+    "title": "Personal Project",
+    "section": "",
+    "text": "Identified potential low-volatility buy zones in various stocks\nBuilt an interactive, data-driven tool to assist in stock analysis\nImproved understanding of quantitative finance and market behavior"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobby",
+    "section": "",
+    "text": "Drawing with pencils has always been a relaxing and rewarding hobby for me. I enjoy the level of control and precision it offers, and how something as simple as a graphite pencil can be used to create detailed, expressive artwork. It’s a creative outlet that helps me slow down, focus, and observe the world more closely.\n\n\n\nPencil Sketch\n\n\n\n\n\n\nGraphite Pencils: Ranging from 9H (hardest) to 9B (softest) for different textures and shading\nMechanical Pencils: For fine details and line consistency\nErasers:\n\nKneaded Eraser: For subtle lightening and highlights\nVinyl Eraser: For clean, precise erasing\n\nBlending Tools:\n\nTortillons and Blending Stumps for smooth gradients\nCotton Swabs and Tissue for broader blending\n\nSketchbook: Acid-free, medium-to-heavyweight paper with slight texture\nFixative Spray: To preserve finished drawings and prevent smudging\n\n\n\n\n\nShading & Gradient Control\nPracticing smooth transitions from light to dark to create volume and depth.\nHatching & Cross-Hatching\nUsing lines and layered strokes to build tonal value and texture.\nContour Drawing\nFocusing on the outline of subjects to capture form and proportion accurately.\nReference Drawing\nDrawing from life or photographs to improve observation and realism.\nTexturing\nDeveloping techniques to render materials like skin, fabric, hair, and metal using pencil strokes.\nNegative Space Drawing\nFocusing on drawing the space around an object to improve spatial awareness and composition.\n\n\n\n\n\nAchieving Realism: It can be difficult to balance detail without overworking a drawing.\nSmudging: Graphite easily smudges, requiring careful hand positioning and occasional fixative application.\nProportions & Perspective: Maintaining accurate anatomy and depth, especially in portraits and architecture.\nTime Management: Pencil drawing can be time-consuming, especially for high-detail pieces.\n\n\n\n\n\nImproved hand-eye coordination and observation skills\nDeeper appreciation for light, form, and visual storytelling\nA growing portfolio of artworks that reflect my progress\nA relaxing and screen-free creative practice I can return to anytime\n\n\n\n\n\n\n“Drawing is not what one sees but what one can make others see.” — Edgar Degas"
+  },
+  {
+    "objectID": "hobbies.html#drawing-my-creative-outlet",
+    "href": "hobbies.html#drawing-my-creative-outlet",
+    "title": "My Hobbies: Drawing and Beyond",
+    "section": "",
+    "text": "Drawing Sample\n\n\nI’ve been passionate about drawing for [X] years. It started as a childhood hobby and has evolved into a form of self-expression and relaxation.\n\n\n\nTools: [List your favorite drawing tools]\nStyles: Focus on [specific styles/subjects]\nInspiration: Drawn from [sources of inspiration]\n\n\n\n\n\nDaily Sketches: Spend 30 minutes daily on quick sketches\nWorkshops: Attend monthly art workshops at [location]\nOnline Communities: Share work and get feedback on [platforms]"
+  },
+  {
+    "objectID": "hobbies.html#other-interests",
+    "href": "hobbies.html#other-interests",
+    "title": "My Hobbies: Drawing and Beyond",
+    "section": "Other Interests",
+    "text": "Other Interests\n\nPhotography: Capturing moments while traveling\nGaming: Enjoy strategy games that challenge my thinking\nReading: Sci-fi and technology-focused books"
+  },
+  {
+    "objectID": "hobbies.html#gallery",
+    "href": "hobbies.html#gallery",
+    "title": "My Hobbies: Drawing and Beyond",
+    "section": "Gallery",
+    "text": "Gallery"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Using Generative AI (GenAI) tools like ChatGPT has been a unique and eye-opening experience throughout this assessment. I chose to use ChatGPT by OpenAI because of its flexibility, speed, and ability to assist in both technical and creative tasks.\n\n\nThe GenAI tool helped me in multiple ways:\n\nClarifying Instructions: When I wasn’t sure how to format YAML files or structure .qmd pages, ChatGPT explained the correct syntax and caught errors like indentation or missing keys.\nFixing Code: It quickly helped debug my Quarto configuration and provided corrected Markdown and HTML code for embedding links and images properly.\nImproving Content: I asked for help in refining my writing and organizing my reflections logically. For example, when I needed help writing this page, ChatGPT gave me a well-structured draft to build on.\n\n\n\n\n\nTime-saving: I spent less time searching for documentation because I could ask direct questions.\nLearning Aid: It explained not only the “what” but also the “why,” helping me understand the reasoning behind the solutions.\nCreativity Support: It offered ideas and phrasing suggestions that made my writing clearer and more engaging.\n\n\n\n\n\nOver-reliance Risk: It’s tempting to just copy-paste answers without fully understanding them. I had to make sure I still learned and reviewed the material myself.\nAccuracy Checks: Sometimes the responses need verification, especially when dealing with code or specific formatting requirements.\n\n\n\n\nIn the future, I believe GenAI tools will be valuable companions in both academic and professional settings. They can support brainstorming, research, writing, coding, and even learning new skills—provided they’re used responsibly.\n\n\n\nUsing GenAI has not only helped me complete the assessment efficiently but also taught me how to collaborate with a new type of digital assistant. I see it as a tool to amplify human creativity and productivity, not replace it."
+  },
+  {
+    "objectID": "reflection.html#tools-i-used",
+    "href": "reflection.html#tools-i-used",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Tools I Used",
+    "text": "Tools I Used\nFor this project, I primarily used ChatGPT from OpenAI. I chose it because of its: - Natural language understanding - Coding assistance capabilities - Wide knowledge base"
+  },
+  {
+    "objectID": "reflection.html#how-it-helped-me",
+    "href": "reflection.html#how-it-helped-me",
+    "title": "Reflection on the Use of GenAI",
+    "section": "How It Helped Me",
+    "text": "How It Helped Me"
+  },
+  {
+    "objectID": "hobbies.html#why-i-enjoy-it",
+    "href": "hobbies.html#why-i-enjoy-it",
+    "title": "Hobby",
+    "section": "",
+    "text": "Drawing with pencils has always been a relaxing and rewarding hobby for me. I enjoy the level of control and precision it offers, and how something as simple as a graphite pencil can be used to create detailed, expressive artwork. It’s a creative outlet that helps me slow down, focus, and observe the world more closely.\n\n\n\nPencil Sketch"
+  },
+  {
+    "objectID": "hobbies.html#tools-i-use",
+    "href": "hobbies.html#tools-i-use",
+    "title": "Hobby",
+    "section": "",
+    "text": "Graphite Pencils: Ranging from 9H (hardest) to 9B (softest) for different textures and shading\nMechanical Pencils: For fine details and line consistency\nErasers:\n\nKneaded Eraser: For subtle lightening and highlights\nVinyl Eraser: For clean, precise erasing\n\nBlending Tools:\n\nTortillons and Blending Stumps for smooth gradients\nCotton Swabs and Tissue for broader blending\n\nSketchbook: Acid-free, medium-to-heavyweight paper with slight texture\nFixative Spray: To preserve finished drawings and prevent smudging"
+  },
+  {
+    "objectID": "hobbies.html#techniques-i-practice",
+    "href": "hobbies.html#techniques-i-practice",
+    "title": "Hobby",
+    "section": "",
+    "text": "Shading & Gradient Control\nPracticing smooth transitions from light to dark to create volume and depth.\nHatching & Cross-Hatching\nUsing lines and layered strokes to build tonal value and texture.\nContour Drawing\nFocusing on the outline of subjects to capture form and proportion accurately.\nReference Drawing\nDrawing from life or photographs to improve observation and realism.\nTexturing\nDeveloping techniques to render materials like skin, fabric, hair, and metal using pencil strokes.\nNegative Space Drawing\nFocusing on drawing the space around an object to improve spatial awareness and composition."
+  },
+  {
+    "objectID": "hobbies.html#challenges-faced",
+    "href": "hobbies.html#challenges-faced",
+    "title": "Hobby",
+    "section": "",
+    "text": "Achieving Realism: It can be difficult to balance detail without overworking a drawing.\nSmudging: Graphite easily smudges, requiring careful hand positioning and occasional fixative application.\nProportions & Perspective: Maintaining accurate anatomy and depth, especially in portraits and architecture.\nTime Management: Pencil drawing can be time-consuming, especially for high-detail pieces."
+  },
+  {
+    "objectID": "hobbies.html#personal-outcomes",
+    "href": "hobbies.html#personal-outcomes",
+    "title": "Hobby",
+    "section": "",
+    "text": "Improved hand-eye coordination and observation skills\nDeeper appreciation for light, form, and visual storytelling\nA growing portfolio of artworks that reflect my progress\nA relaxing and screen-free creative practice I can return to anytime"
+  },
+  {
+    "objectID": "hobbies.html#favourite-tutorial",
+    "href": "hobbies.html#favourite-tutorial",
+    "title": "Hobby",
+    "section": "",
+    "text": "“Drawing is not what one sees but what one can make others see.” — Edgar Degas"
+  },
+  {
+    "objectID": "reflection.html#reflection-on-the-use-of-genai",
+    "href": "reflection.html#reflection-on-the-use-of-genai",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "Using Generative AI (GenAI) tools like ChatGPT has been a unique and eye-opening experience throughout this assessment. I chose to use ChatGPT by OpenAI because of its flexibility, speed, and ability to assist in both technical and creative tasks.\n\n\nThe GenAI tool helped me in multiple ways:\n\nClarifying Instructions: When I wasn’t sure how to format YAML files or structure .qmd pages, ChatGPT explained the correct syntax and caught errors like indentation or missing keys.\nFixing Code: It quickly helped debug my Quarto configuration and provided corrected Markdown and HTML code for embedding links and images properly.\nImproving Content: I asked for help in refining my writing and organizing my reflections logically. For example, when I needed help writing this page, ChatGPT gave me a well-structured draft to build on.\n\n\n\n\n\nTime-saving: I spent less time searching for documentation because I could ask direct questions.\nLearning Aid: It explained not only the “what” but also the “why,” helping me understand the reasoning behind the solutions.\nCreativity Support: It offered ideas and phrasing suggestions that made my writing clearer and more engaging.\n\n\n\n\n\nOver-reliance Risk: It’s tempting to just copy-paste answers without fully understanding them. I had to make sure I still learned and reviewed the material myself.\nAccuracy Checks: Sometimes the responses need verification, especially when dealing with code or specific formatting requirements.\n\n\n\n\nIn the future, I believe GenAI tools will be valuable companions in both academic and professional settings. They can support brainstorming, research, writing, coding, and even learning new skills—provided they’re used responsibly.\n\n\n\nUsing GenAI has not only helped me complete the assessment efficiently but also taught me how to collaborate with a new type of digital assistant. I see it as a tool to amplify human creativity and productivity, not replace it."
+  },
+  {
+    "objectID": "index.html#highlights-of-what-youll-find-here",
+    "href": "index.html#highlights-of-what-youll-find-here",
+    "title": "Welcome to My Personal Website",
+    "section": "Highlights of What You’ll Find Here",
+    "text": "Highlights of What You’ll Find Here\n\n💻 Projects: Explore my personal projects that reflect my learning and creativity.\n🎮 Hobbies: See what I enjoy doing when I’m not coding or studying.\n🎬 TV Show Thoughts: My take on a tv series that left an impression.\n🤖 GenAI Reflection: How I’ve been using Generative AI tools like ChatGPT to boost my learning and productivity."
   }
 ]

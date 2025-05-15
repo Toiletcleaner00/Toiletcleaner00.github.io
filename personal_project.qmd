@@ -1,0 +1,36 @@
+---
+title: "Personal Project"
+format: html
+---
+
+# Volatility-Based Stock Market Strategy Analyzer
+
+## Project Overview
+This project explores how volatility forecasting can support data-driven stock trading decisions. Using financial data and statistical modeling, the system analyzes stock behavior and identifies low-volatility periods that may serve as favorable buy signals.
+
+![Volatility Forecast](volatility.jpg)
+
+## Technologies Used
+- Python (Main development language)
+- yFinance (Stock data retrieval)
+- Selenium (Web scraping)
+- GARCH (Volatility modeling)
+- Matplotlib & mplfinance (Data visualization)
+- Google Colab (Development platform)
+
+## Key Features
+1. Forecasts stock market volatility using GARCH models
+2. Integrates technical indicators such as moving averages and Bollinger Bands
+3. Interactive interface to select and visualize individual stock data
+4. Provides analytical insight into market behavior during low-volatility periods
+
+## Challenges Faced
+- Implementing and tuning GARCH models for financial time series
+- Cleaning and aligning noisy or missing stock data
+- Balancing predictive accuracy with interpretability
+- Visualizing multi-dimensional financial indicators effectively
+
+## Outcomes
+- Identified potential low-volatility buy zones in various stocks
+- Built an interactive, data-driven tool to assist in stock analysis
+- Improved understanding of quantitative finance and market behavior
